@@ -3,7 +3,7 @@
 /*
 Find all pairs with the given sum in an array.
 
-Given an unsorted integer array, find a pair with the given sum in it
+Given an unsorted integer array, find all pairs with the given sum in it
 */
 
 int findPair(int nums[], int n, int target){
